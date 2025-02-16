@@ -1,0 +1,21 @@
+Control APIs:
+1.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.create
+2.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.create_many
+3.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.delete_by_id
+4.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.identify
+5.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.replace_by_id
+6.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.replace_or_create
+7.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.update_attributes
+8.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.upsert
+9.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.upsert_with_where
+
+Status query APIs:
+1.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.count
+2.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.discover
+3.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.exists
+4.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.find
+5.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.find_by_id
+6.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.find_one
+7.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.refresh
+8.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.get_residence
+9.SDK_dataset\decora_wifi\models\iot_switch.IotSwitch.get_residential_room

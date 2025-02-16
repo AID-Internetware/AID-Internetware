@@ -1,0 +1,7 @@
+API number:6
+SDK_dataset\tellduslive\tellduslive.LocalAPISession.maybe_refresh_token
+SDK_dataset\tellduslive\tellduslive
+SDK_dataset\tellduslive\tellduslive.LocalAPISession.discovery_info
+SDK_dataset\tellduslive\tellduslive.read_credentials
+SDK_dataset\tellduslive\tellduslive.Session.update
+SDK_dataset\tellduslive\tellduslive.LocalAPISession.authorize

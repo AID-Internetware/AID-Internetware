@@ -1,0 +1,15 @@
+Control APIs:
+1.SDK_dataset\pyatmo\home.Home.async_set_thermmode
+2.SDK_dataset\pyatmo\home.Home.async_switch_schedule
+3.SDK_dataset\pyatmo\home.Home.async_set_state
+4.SDK_dataset\pyatmo\home.Home.async_set_persons_home
+5.SDK_dataset\pyatmo\home.Home.async_set_persons_away
+6.SDK_dataset\pyatmo\home.Home.async_set_schedule_temperatures
+7.SDK_dataset\pyatmo\home.Home.async_sync_schedule
+
+Status query APIs:
+1.SDK_dataset\pyatmo\home.Home.get_module
+2.SDK_dataset\pyatmo\home.Home.get_selected_schedule
+3.SDK_dataset\pyatmo\home.Home.get_hg_temp
+4.SDK_dataset\pyatmo\home.Home.get_away_temp
+5.SDK_dataset\pyatmo\home.is_valid_state

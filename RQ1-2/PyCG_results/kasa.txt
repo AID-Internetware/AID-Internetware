@@ -1,0 +1,9 @@
+API number:8
+SDK_dataset\kasa\smartbulb.SmartBulb.turn_on
+SDK_dataset\kasa\smartbulb.SmartBulb.set_turn_on_behavior
+SDK_dataset\kasa\smartbulb.SmartBulb.turn_off
+SDK_dataset\kasa\smartbulb.SmartBulb.get_light_state
+SDK_dataset\kasa\smartbulb.SmartBulb.set_alias
+SDK_dataset\kasa\smartbulb.SmartBulb.save_preset
+SDK_dataset\kasa\smartbulb.SmartBulb.get_turn_on_behavior
+SDK_dataset\kasa\smartbulb.SmartBulb.get_light_details

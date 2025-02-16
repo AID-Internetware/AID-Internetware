@@ -1,0 +1,7 @@
+API number:6
+SDK_dataset\switchbot\devices\bulb.SwitchbotBulb.set_rgb
+SDK_dataset\switchbot\devices\bulb.SwitchbotBulb.turn_off
+SDK_dataset\switchbot\devices\device.SwitchbotSequenceDevice.update_from_advertisement
+SDK_dataset\switchbot\devices\bulb.SwitchbotBulb.turn_on
+SDK_dataset\switchbot\devices\bulb.SwitchbotBulb.set_brightness
+SDK_dataset\switchbot\devices\bulb.SwitchbotBulb.set_color_temp

@@ -1,0 +1,14 @@
+Control APIs:
+1.SDK_dataset\elgato\elgato.Elgato.battery_bypass
+2.SDK_dataset\elgato\elgato.Elgato.energy_saving
+3.SDK_dataset\elgato\elgato.Elgato.identify
+4.SDK_dataset\elgato\elgato.Elgato.restart
+5.SDK_dataset\elgato\elgato.Elgato.display_name
+6.SDK_dataset\elgato\elgato.Elgato.light
+7.SDK_dataset\elgato\elgato.Elgato.power_on_behavior
+
+Status query APIs:
+1.SDK_dataset\elgato\elgato.Elgato.has_battery
+2.SDK_dataset\elgato\elgato.Elgato.battery
+3.SDK_dataset\elgato\elgato.Elgato.info
+4.SDK_dataset\elgato\elgato.Elgato.state

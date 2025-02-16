@@ -1,0 +1,16 @@
+API number:15
+SDK_dataset\pyeconet\equipment\thermostat.ThermostatOperationMode
+SDK_dataset\pyeconet\equipment\__init__.Equipment.force_update_from_api
+SDK_dataset\pyeconet\equipment\__init__.Equipment.set_away_mode
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.dehumidifier_set_point_limits
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_fan_mode
+SDK_dataset\pyeconet\equipment\thermostat.ThermostatFanMode
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.mode
+SDK_dataset\pyeconet\equipment\__init__.Equipment.serial_number
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_dehumidifier_set_point
+SDK_dataset\pyeconet\equipment\__init__.Equipment.supports_away
+SDK_dataset\pyeconet\api.EcoNetApiInterface.login
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_mode
+SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_set_point
+SDK_dataset\pyeconet\api.EcoNetApiInterface.get_equipment_by_type
+SDK_dataset\pyeconet\api.EcoNetApiInterface.get_dynamic_action

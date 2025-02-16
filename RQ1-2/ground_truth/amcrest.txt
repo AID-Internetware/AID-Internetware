@@ -1,0 +1,16 @@
+Control APIs:
+1.SDK_dataset\amcrest\motion_detection.MotionDetection.motion_detection
+2.SDK_dataset\amcrest\motion_detection.MotionDetection.motion_recording
+3.SDK_dataset\amcrest\motion_detection.MotionDetection.set_motion_detection
+4.SDK_dataset\amcrest\motion_detection.MotionDetection.async_set_motion_detection
+5.SDK_dataset\amcrest\motion_detection.MotionDetection.set_motion_recording
+6.SDK_dataset\amcrest\motion_detection.MotionDetection.async_set_motion_recording
+7.SDK_dataset\amcrest\http.Http.command_audio
+8.SDK_dataset\amcrest\http.Http.async_stream_command
+
+Status query APIs:
+1.SDK_dataset\amcrest\motion_detection.MotionDetection.async_motion_detection
+2.SDK_dataset\amcrest\motion_detection.MotionDetection.is_motion_detector_on
+3.SDK_dataset\amcrest\motion_detection.MotionDetection.async_is_motion_detector_on
+4.SDK_dataset\amcrest\motion_detection.MotionDetection.is_record_on_motion_detection
+5.SDK_dataset\amcrest\motion_detection.MotionDetection.async_is_record_on_motion_detection

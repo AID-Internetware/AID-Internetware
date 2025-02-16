@@ -1,0 +1,12 @@
+Control APIs:
+1.SDK_dataset\motioneye_client\client.MotionEyeClient.async_set_camera
+2.SDK_dataset\motioneye_client\client.MotionEyeClient.async_action
+
+Status query APIs:
+1.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_manifest
+2.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_server_config
+3.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_cameras
+4.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_camera
+5.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_movies
+6.SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_images
+

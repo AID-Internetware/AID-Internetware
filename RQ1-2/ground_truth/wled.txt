@@ -1,0 +1,18 @@
+Control APIs:
+1.SDK_dataset\wled\wled.WLED.connect
+2.SDK_dataset\wled\wled.WLED.listen
+3.SDK_dataset\wled\wled.WLED.disconnect
+4.SDK_dataset\wled\wled.WLED.master
+5.SDK_dataset\wled\wled.WLED.segment
+6.SDK_dataset\wled\wled.WLED.transition
+7.SDK_dataset\wled\wled.WLED.preset
+8.SDK_dataset\wled\wled.WLED.playlist
+9.SDK_dataset\wled\wled.WLED.live
+10.SDK_dataset\wled\wled.WLED.sync
+11.SDK_dataset\wled\wled.WLED.nightlight
+12.SDK_dataset\wled\wled.WLED.reset
+13.SDK_dataset\wled\wled.WLED.close
+
+Status query APIs:
+1.SDK_dataset\wled\wled.WLED.upgrade
+

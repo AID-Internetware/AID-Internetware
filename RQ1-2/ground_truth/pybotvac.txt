@@ -1,0 +1,25 @@
+Control APIs:
+1.SDK_dataset\pybotvac\robot.Robot.start_cleaning
+2.SDK_dataset\pybotvac\robot.Robot.start_spot_cleaning
+3.SDK_dataset\pybotvac\robot.Robot.pause_cleaning
+4.SDK_dataset\pybotvac\robot.Robot.resume_cleaning
+5.SDK_dataset\pybotvac\robot.Robot.stop_cleaning
+6.SDK_dataset\pybotvac\robot.Robot.send_to_base
+7.SDK_dataset\pybotvac\robot.Robot.enable_schedule
+8.SDK_dataset\pybotvac\robot.Robot.disable_schedule
+9.SDK_dataset\pybotvac\robot.Robot.locate
+10.SDK_dataset\pybotvac\robot.Robot.dismiss_current_alert
+11.SDK_dataset\pybotvac\robot.Robot.schedule_enabled
+12.SDK_dataset\pybotvac\robot.Robot.spot_cleaning_version
+
+Status query APIs:
+1.SDK_dataset\pybotvac\robot.Robot.get_robot_state
+2.SDK_dataset\pybotvac\robot.Robot.get_schedule
+3.SDK_dataset\pybotvac\robot.Robot.get_general_info
+4.SDK_dataset\pybotvac\robot.Robot.get_local_stats
+5.SDK_dataset\pybotvac\robot.Robot.get_preferences
+6.SDK_dataset\pybotvac\robot.Robot.get_map_boundaries
+7.SDK_dataset\pybotvac\robot.Robot.get_robot_info
+8.SDK_dataset\pybotvac\robot.Robot.state
+9.SDK_dataset\pybotvac\robot.Robot.service_version
+

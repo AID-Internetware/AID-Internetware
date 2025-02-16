@@ -1,0 +1,28 @@
+Control APIs:
+1.SDK_dataset\yeelight\main.Bulb.ensure_on
+2.SDK_dataset\yeelight\main.Bulb.set_color_temp
+3.SDK_dataset\yeelight\main.Bulb.set_rgb
+4.SDK_dataset\yeelight\main.Bulb.set_adjust
+5.SDK_dataset\yeelight\main.Bulb.set_hsv
+6.SDK_dataset\yeelight\main.Bulb.set_brightness
+7.SDK_dataset\yeelight\main.Bulb.turn_on
+8.SDK_dataset\yeelight\main.Bulb.turn_off
+9.SDK_dataset\yeelight\main.Bulb.toggle
+10.SDK_dataset\yeelight\main.Bulb.dev_toggle
+11.SDK_dataset\yeelight\main.Bulb.set_default
+12.SDK_dataset\yeelight\main.Bulb.set_name
+13.SDK_dataset\yeelight\main.Bulb.start_flow
+14.SDK_dataset\yeelight\main.Bulb.stop_flow
+15.SDK_dataset\yeelight\main.Bulb.set_scene
+16.SDK_dataset\yeelight\main.Bulb.start_music
+17.SDK_dataset\yeelight\main.Bulb.stop_music
+18.SDK_dataset\yeelight\main.Bulb.set_power_mode
+
+Status query APIs:
+1.SDK_dataset\yeelight\main.Bulb.get_capabilities
+2.SDK_dataset\yeelight\main.Bulb.capabilities
+3.SDK_dataset\yeelight\main.Bulb.bulb_type
+4.SDK_dataset\yeelight\main.Bulb.model
+5.SDK_dataset\yeelight\main.Bulb.music_mode
+6.SDK_dataset\yeelight\main.Bulb.music_mode_state
+7.SDK_dataset\yeelight\main.Bulb.get_properties

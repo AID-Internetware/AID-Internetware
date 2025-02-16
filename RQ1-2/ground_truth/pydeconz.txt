@@ -1,0 +1,9 @@
+Control APIs:
+1.SDK_dataset\pydeconz\interfaces\lights.LightHandler.set_state
+2.SDK_dataset\pydeconz\interfaces\lights.LockHandler.set_state
+3.SDK_dataset\pydeconz\interfaces\lights.CoverHandler.set_state
+4.SDK_dataset\pydeconz\interfaces\lights.SirenHandler.set_state
+
+Status query APIs:
+1.SDK_dataset\pydeconz\gateway.DeconzSession.refresh_state
+

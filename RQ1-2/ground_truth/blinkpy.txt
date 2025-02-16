@@ -1,0 +1,33 @@
+Control APIs:
+1. SDK_dataset\blinkpy\api.request_login
+2. SDK_dataset\blinkpy\api.request_verify
+3. SDK_dataset\blinkpy\api.request_logout
+4. SDK_dataset\blinkpy\api.request_networks
+5. SDK_dataset\blinkpy\api.request_network_update
+6. SDK_dataset\blinkpy\api.request_user
+7. SDK_dataset\blinkpy\api.request_network_status
+8. SDK_dataset\blinkpy\api.request_syncmodule
+9. SDK_dataset\blinkpy\api.request_system_arm
+10. SDK_dataset\blinkpy\api.request_system_disarm
+11. SDK_dataset\blinkpy\api.request_command_status
+12. SDK_dataset\blinkpy\api.request_homescreen
+13. SDK_dataset\blinkpy\api.request_sync_events
+14. SDK_dataset\blinkpy\api.request_new_image
+15. SDK_dataset\blinkpy\api.request_new_video
+16. SDK_dataset\blinkpy\api.request_video_count
+17. SDK_dataset\blinkpy\api.request_videos
+18. SDK_dataset\blinkpy\api.request_cameras
+19. SDK_dataset\blinkpy\api.request_camera_info
+20. SDK_dataset\blinkpy\api.request_camera_usage
+21. SDK_dataset\blinkpy\api.request_camera_liveview
+22. SDK_dataset\blinkpy\api.request_camera_sensors
+23. SDK_dataset\blinkpy\api.request_motion_detection_enable
+24. SDK_dataset\blinkpy\api.request_motion_detection_disable
+25. SDK_dataset\blinkpy\api.request_local_storage_manifest
+26. SDK_dataset\blinkpy\api.get_local_storage_manifest
+27. SDK_dataset\blinkpy\api.request_local_storage_clip
+28. SDK_dataset\blinkpy\api.request_get_config
+29. SDK_dataset\blinkpy\api.request_update_config
+
+Status query APIs:
+

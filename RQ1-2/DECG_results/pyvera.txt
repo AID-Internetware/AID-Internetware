@@ -1,0 +1,16 @@
+API number:15
+SDK_dataset\pyvera\__init__.VeraController.get_device_by_id
+SDK_dataset\pyvera\__init__.VeraDevice.set_door_code_values
+SDK_dataset\pyvera\__init__.VeraSwitch.switch_on
+SDK_dataset\pyvera\__init__.VeraDevice.refresh_complex_value
+SDK_dataset\pyvera\__init__.VeraController.map_services
+SDK_dataset\pyvera\__init__.VeraDevice.poll_device
+SDK_dataset\pyvera\__init__.VeraController.refresh_data
+SDK_dataset\pyvera\__init__.VeraSwitch.is_switched_on
+SDK_dataset\pyvera\__init__.VeraController.get_scenes
+SDK_dataset\pyvera\__init__.VeraController.get_device_by_name
+SDK_dataset\pyvera\__init__.VeraDevice.refresh
+SDK_dataset\pyvera\__init__.VeraSwitch.switch_off
+SDK_dataset\pyvera\__init__.VeraController.get_alerts
+SDK_dataset\pyvera\__init__.VeraController.get_changed_devices
+SDK_dataset\pyvera\__init__.VeraDevice.call_service

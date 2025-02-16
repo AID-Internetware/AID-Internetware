@@ -1,0 +1,23 @@
+Control APIs:
+1.SDK_dataset\pysensibo\__init__.SensiboClient.async_reset_filter
+2.SDK_dataset\pysensibo\__init__.SensiboClient.async_enable_climate_react
+3.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_climate_react
+4.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_timer
+5.SDK_dataset\pysensibo\__init__.SensiboClient.async_del_timer
+6.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_schedule
+7.SDK_dataset\pysensibo\__init__.SensiboClient.async_enable_schedule
+8.SDK_dataset\pysensibo\__init__.SensiboClient.async_del_schedule
+9.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_calibration
+10.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_pureboost
+11.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_ac_states
+12.SDK_dataset\pysensibo\__init__.SensiboClient.async_set_ac_state_property
+
+Status query APIs:
+1.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_devices
+2.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_devices_data
+3.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_device
+4.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_climate_react
+5.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_timer
+6.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_schedules
+7.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_schedule
+8.SDK_dataset\pysensibo\__init__.SensiboClient.async_get_me

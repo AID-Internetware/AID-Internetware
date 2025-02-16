@@ -1,0 +1,10 @@
+API number:9
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.set_color
+SDK_dataset\aiohue\v2\__init__.HueBridgeV2.get_diagnostics
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.set_color_temperature
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.set_brightness
+SDK_dataset\aiohue\v2\controllers\base.BaseResourcesController.create
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.set_flash
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.turn_off
+SDK_dataset\aiohue\v2\controllers\lights.LightsController.turn_on
+SDK_dataset\aiohue\v2\controllers\devices.DevicesController.set_identify

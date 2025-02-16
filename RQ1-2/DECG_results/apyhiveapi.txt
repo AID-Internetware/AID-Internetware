@@ -1,0 +1,19 @@
+API number:18
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getAlarm
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getLoginInfo
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.motionSensor
+SDK_dataset\apyhiveapi\light.HiveLight.setColorTemp
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getProducts
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getWeather
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.setAction
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getCameraRecording
+SDK_dataset\apyhiveapi\light.HiveLight.setStatusOn
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getCameraImage
+SDK_dataset\apyhiveapi\light.HiveLight.setStatusOff
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.refreshTokens
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getActions
+SDK_dataset\apyhiveapi\light.Light.turnOn
+SDK_dataset\apyhiveapi\light.Light.turnOff
+SDK_dataset\apyhiveapi\light.HiveLight.setBrightness
+SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getAll
+SDK_dataset\apyhiveapi\light.HiveLight.setColor

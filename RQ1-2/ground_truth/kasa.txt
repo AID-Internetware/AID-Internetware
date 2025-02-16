@@ -1,0 +1,26 @@
+Control APIs:
+1.SDK_dataset\kasa\smartbulb.SmartBulb.set_turn_on_behavior
+2.SDK_dataset\kasa\smartbulb.SmartBulb.set_light_state
+3.SDK_dataset\kasa\smartbulb.SmartBulb.set_hsv
+4.SDK_dataset\kasa\smartbulb.SmartBulb.set_color_temp
+5.SDK_dataset\kasa\smartbulb.SmartBulb.set_brightness
+6.SDK_dataset\kasa\smartbulb.SmartBulb.turn_off
+7.SDK_dataset\kasa\smartbulb.SmartBulb.turn_on
+8.SDK_dataset\kasa\smartbulb.SmartBulb.set_alias
+9.SDK_dataset\kasa\smartbulb.SmartBulb.save_preset
+
+Status query APIs:
+1.SDK_dataset\kasa\smartbulb.SmartBulb.is_color
+2.SDK_dataset\kasa\smartbulb.SmartBulb.is_dimmable
+3.SDK_dataset\kasa\smartbulb.SmartBulb.is_variable_color_temp
+4.SDK_dataset\kasa\smartbulb.SmartBulb.valid_temperature_range
+5.SDK_dataset\kasa\smartbulb.SmartBulb.light_state
+6.SDK_dataset\kasa\smartbulb.SmartBulb.has_effects
+7.SDK_dataset\kasa\smartbulb.SmartBulb.get_light_details
+8.SDK_dataset\kasa\smartbulb.SmartBulb.get_turn_on_behavior
+9.SDK_dataset\kasa\smartbulb.SmartBulb.get_light_state
+10.SDK_dataset\kasa\smartbulb.SmartBulb.hsv
+11.SDK_dataset\kasa\smartbulb.SmartBulb.color_temp
+12.SDK_dataset\kasa\smartbulb.SmartBulb.brightness
+13.SDK_dataset\kasa\smartbulb.SmartBulb.state_information
+14.SDK_dataset\kasa\smartbulb.SmartBulb.is_on

@@ -1,0 +1,16 @@
+API number:15
+SDK_dataset\homeconnect\api.HomeConnectAppliance.set_options_active_program
+SDK_dataset\homeconnect\api.HomeConnectAppliance.set_setting
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_settings
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_programs_selected
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_status
+SDK_dataset\homeconnect\api.HomeConnectAppliance.delete
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_programs_available
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_program_options
+SDK_dataset\homeconnect\api.HomeConnectAppliance.select_program
+SDK_dataset\homeconnect\api.HomeConnectAppliance.start_program
+SDK_dataset\homeconnect\api.HomeConnectAppliance.get_programs_active
+SDK_dataset\homeconnect\api.HomeConnectAppliance.stop_program
+SDK_dataset\homeconnect\api.HomeConnectAppliance.execute_command
+SDK_dataset\homeconnect\api.HomeConnectAPI.get_appliances
+SDK_dataset\homeconnect\api.HomeConnectAppliance.set_options_selected_program

@@ -1,0 +1,16 @@
+Control APIs:
+1.SDK_dataset\tellduslive\tellduslive.Device.turn_on
+2.SDK_dataset\tellduslive\tellduslive.Device.turn_off
+3.SDK_dataset\tellduslive\tellduslive.Device.dim
+4.SDK_dataset\tellduslive\tellduslive.Device.up
+5.SDK_dataset\tellduslive\tellduslive.Device.down
+6.SDK_dataset\tellduslive\tellduslive.Device.stop
+
+Status query APIs:
+1.SDK_dataset\tellduslive\tellduslive.Device.dim_level
+2.SDK_dataset\tellduslive\tellduslive.Device.info
+3.SDK_dataset\tellduslive\tellduslive.Device.is_online
+4.SDK_dataset\tellduslive\tellduslive.Device.is_sensor
+5.SDK_dataset\tellduslive\tellduslive.Device.is_on
+6.SDK_dataset\tellduslive\tellduslive.Device.is_down
+

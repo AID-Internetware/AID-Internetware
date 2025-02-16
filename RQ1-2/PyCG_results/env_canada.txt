@@ -1,0 +1,5 @@
+API number:4
+SDK_dataset\env_canada\ec_aqhi.ECAirQuality.get_aqhi_data
+SDK_dataset\env_canada\ec_aqhi.ECAirQuality.update
+SDK_dataset\env_canada\ec_aqhi.timestamp_to_datetime
+SDK_dataset\env_canada\ec_aqhi.find_closest_region

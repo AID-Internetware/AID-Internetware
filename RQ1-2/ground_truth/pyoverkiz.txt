@@ -1,0 +1,35 @@
+Control APIs:
+1.SDK_dataset\pyoverkiz\client.OverkizClient.login
+2.SDK_dataset\pyoverkiz\client.OverkizClient.somfy_tahoma_get_access_token
+3.SDK_dataset\pyoverkiz\client.OverkizClient.cozytouch_login
+4.SDK_dataset\pyoverkiz\client.OverkizClient.nexity_login
+5.SDK_dataset\pyoverkiz\client.OverkizClient.refresh_states
+6.SDK_dataset\pyoverkiz\client.OverkizClient.refresh_device_states
+7.SDK_dataset\pyoverkiz\client.OverkizClient.fetch_events
+8.SDK_dataset\pyoverkiz\client.OverkizClient.execute_command
+9.SDK_dataset\pyoverkiz\client.OverkizClient.cancel_command
+10.SDK_dataset\pyoverkiz\client.OverkizClient.execute_commands
+11.SDK_dataset\pyoverkiz\client.OverkizClient.generate_local_token
+12.SDK_dataset\pyoverkiz\client.OverkizClient.activate_local_token
+13.SDK_dataset\pyoverkiz\client.OverkizClient.delete_local_token
+14.SDK_dataset\pyoverkiz\client.OverkizClient.execute_scenario
+15.SDK_dataset\pyoverkiz\client.OverkizClient.execute_scheduled_scenario
+
+Status query APIs:
+1.SDK_dataset\pyoverkiz\client.OverkizClient.get_setup
+2.SDK_dataset\pyoverkiz\client.OverkizClient.get_diagnostic_data
+3.SDK_dataset\pyoverkiz\client.OverkizClient.get_devices
+4.SDK_dataset\pyoverkiz\client.OverkizClient.get_gateways
+5.SDK_dataset\pyoverkiz\client.OverkizClient.get_execution_history
+6.SDK_dataset\pyoverkiz\client.OverkizClient.get_device_definition
+7.SDK_dataset\pyoverkiz\client.OverkizClient.get_state
+8.SDK_dataset\pyoverkiz\client.OverkizClient.get_current_execution
+9.SDK_dataset\pyoverkiz\client.OverkizClient.get_current_executions
+10.SDK_dataset\pyoverkiz\client.OverkizClient.get_api_version
+11.SDK_dataset\pyoverkiz\client.OverkizClient.get_scenarios
+12.SDK_dataset\pyoverkiz\client.OverkizClient.get_places
+13.SDK_dataset\pyoverkiz\client.OverkizClient.get_local_tokens
+14.SDK_dataset\pyoverkiz\client.OverkizClient.get_setup_options
+15.SDK_dataset\pyoverkiz\client.OverkizClient.get_setup_option
+16.SDK_dataset\pyoverkiz\client.OverkizClient.get_setup_option_parameter
+

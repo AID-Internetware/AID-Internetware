@@ -1,0 +1,27 @@
+Control APIs:
+1.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_dehumidifier_set_point
+2.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_mode
+3.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_fan_mode
+4.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.set_set_point
+
+Status query APIs:
+1.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.running
+2.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.running_state
+3.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.beep_enabled
+4.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.supports_humidifier
+5.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.cool_set_point
+6.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.cool_set_point_limits
+7.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.heat_set_point
+8.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.heat_set_point_limits
+9.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.deadband
+10.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.deadband_set_point_limits
+11.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.dehumidifier_set_point
+12.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.dehumidifier_set_point_limits
+13.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.dehumidifier_enabled
+14.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.zone_id
+15.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.humidity
+16.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.screen_locked
+17.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.modes
+18.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.mode
+19.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.fan_modes
+20.SDK_dataset\pyeconet\equipment\thermostat.Thermostat.fan_mode
