@@ -1,0 +1,31 @@
+Control APIs:
+1.SDK_dataset\apyhiveapi\light.HiveLight.setStatusOff
+2.SDK_dataset\apyhiveapi\light.HiveLight.setStatusOn
+3.SDK_dataset\apyhiveapi\light.HiveLight.setBrightness
+4.SDK_dataset\apyhiveapi\light.HiveLight.setColorTemp
+5.SDK_dataset\apyhiveapi\light.HiveLight.setColor
+6.SDK_dataset\apyhiveapi\light.Light.turnOn
+7.SDK_dataset\apyhiveapi\light.Light.turnOff
+8.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.setAction
+9.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.setState
+
+Status query APIs:
+1.SDK_dataset\apyhiveapi\light.HiveLight.getState
+2.SDK_dataset\apyhiveapi\light.HiveLight.getBrightness
+3.SDK_dataset\apyhiveapi\light.HiveLight.getMinColorTemp
+4.SDK_dataset\apyhiveapi\light.HiveLight.getMaxColorTemp
+5.SDK_dataset\apyhiveapi\light.HiveLight.getColorTemp
+6.SDK_dataset\apyhiveapi\light.HiveLight.getColor
+7.SDK_dataset\apyhiveapi\light.HiveLight.getColorMode
+8.\SDK_dataset\apyhiveapi\light.Light.getLight
+9.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getDevices
+10.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getCameraRecording
+11.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getAll
+12.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getCameraImage
+13.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getWeather
+14.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getActions
+15.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getAlarm
+16.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getProducts
+17.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.getLoginInfo
+18.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.motionSensor
+19.SDK_dataset\apyhiveapi\api\hive_api.HiveApi.refreshTokens

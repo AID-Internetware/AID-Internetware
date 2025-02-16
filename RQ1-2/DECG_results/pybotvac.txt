@@ -1,0 +1,20 @@
+API number:19
+SDK_dataset\pybotvac\robot.Robot.locate
+SDK_dataset\pybotvac\robot.Robot.get_map_boundaries
+SDK_dataset\pybotvac\robot.Robot.dismiss_current_alert
+SDK_dataset\pybotvac\robot.Robot.get_local_stats
+SDK_dataset\pybotvac\robot.Robot.service_version
+SDK_dataset\pybotvac\robot.Robot.stop_cleaning
+SDK_dataset\pybotvac\robot.Robot.schedule_enabled
+SDK_dataset\pybotvac\robot.Robot.get_schedule
+SDK_dataset\pybotvac\robot.Robot.get_robot_info
+SDK_dataset\pybotvac\robot.Robot.send_to_base
+SDK_dataset\pybotvac\robot.Robot.pause_cleaning
+SDK_dataset\pybotvac\robot.Robot.get_preferences
+SDK_dataset\pybotvac\robot.Robot.disable_schedule
+SDK_dataset\pybotvac\robot.Robot.enable_schedule
+SDK_dataset\pybotvac\robot.Robot.start_cleaning
+SDK_dataset\pybotvac\robot.Robot.start_spot_cleaning
+SDK_dataset\pybotvac\robot.Robot.get_general_info
+SDK_dataset\pybotvac\robot.Robot.resume_cleaning
+SDK_dataset\pybotvac\robot.Robot.spot_cleaning_version

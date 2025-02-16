@@ -1,0 +1,10 @@
+API number:9
+SDK_dataset\pyhomematic\_hm.ServerThread.getAllSystemVariables
+SDK_dataset\pyhomematic\_hm.ServerThread.getSystemVariable
+SDK_dataset\pyhomematic\connection.HMConnection.getSystemVariable
+SDK_dataset\pyhomematic\connection.HMConnection.reconnect
+SDK_dataset\pyhomematic\_hm.ServerThread.deleteSystemVariable
+SDK_dataset\pyhomematic\connection.HMConnection.setSystemVariable
+SDK_dataset\pyhomematic\connection.HMConnection.deleteSystemVariable
+SDK_dataset\pyhomematic\_hm.ServerThread.setSystemVariable
+SDK_dataset\pyhomematic\connection.HMConnection.getAllSystemVariables

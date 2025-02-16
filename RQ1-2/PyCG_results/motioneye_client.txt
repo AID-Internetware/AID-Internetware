@@ -1,0 +1,9 @@
+API number:8
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_manifest
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_set_camera
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_action
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_images
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_movies
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_cameras
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_camera
+SDK_dataset\motioneye_client\client.MotionEyeClient.async_get_server_config

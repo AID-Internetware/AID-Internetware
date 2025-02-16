@@ -1,0 +1,11 @@
+{
+	"main.Dependency.__init__": [],
+	"main": [],
+	"main.Dependency.func3": [
+		"main.func1"
+	],
+	"main.func1": [],
+	"main.Dependency.func2": [
+		"main.func1"
+	]
+}

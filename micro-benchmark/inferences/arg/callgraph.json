@@ -1,0 +1,7 @@
+{
+	"main.Inference.func2": [
+		"main.MyClass.func1"
+	],
+	"main.MyClass.func1": [],
+	"main": []
+}

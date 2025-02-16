@@ -1,0 +1,18 @@
+API number:17
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_off
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_on
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_color_hex
+SDK_dataset\pymystrom\__init__.MyStromDevice.get_device_info
+SDK_dataset\pymystrom\bulb.MyStromBulb.D
+SDK_dataset\pymystrom\__init__.get_device_info
+SDK_dataset\pymystrom\bulb.MyStromBulb.get_state
+SDK_dataset\pymystrom\bulb.MyStromBulb.consumption
+SDK_dataset\pymystrom\bulb.MyStromBulb.color
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_sunrise
+SDK_dataset\pymystrom\bulb.MyStromBulb.bulb_type
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_rainbow
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_flashing
+SDK_dataset\pymystrom\bulb.MyStromBulb.transition_time
+SDK_dataset\pymystrom\bulb.MyStromBulb.set_white
+SDK_dataset\pymystrom\bulb.MyStromBulb.firmware
+SDK_dataset\pymystrom\bulb.MyStromBulb.mode

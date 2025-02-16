@@ -1,0 +1,18 @@
+Control APIs:
+1.SDK_dataset\aioshelly\block_device\device.BlockDevice.switch_light_mode
+2.SDK_dataset\aioshelly\block_device\device.BlockDevice.trigger_ota_update
+3.SDK_dataset\aioshelly\block_device\device.BlockDevice.trigger_reboot
+4.SDK_dataset\aioshelly\block_device\device.BlockDevice.trigger_shelly_gas_self_test
+5.SDK_dataset\aioshelly\block_device\device.BlockDevice.trigger_shelly_gas_mute
+6.SDK_dataset\aioshelly\block_device\device.BlockDevice.trigger_shelly_gas_unmute
+7.SDK_dataset\aioshelly\block_device\device.BlockDevice.set_shelly_motion_detection
+8.SDK_dataset\aioshelly\block_device\device.BlockDevice.set_thermostat_state
+9.SDK_dataset\aioshelly\block_device\device.BlockDevice.create
+10.SDK_dataset\aioshelly\block_device\device.Block.initialize
+11.SDK_dataset\aioshelly\block_device\device.Block.set_state
+12.SDK_dataset\aioshelly\block_device\device.Block.toggle
+
+Status query APIs:
+1.SDK_dataset\aioshelly\block_device\device.BlockDevice.update_status
+2.SDK_dataset\aioshelly\block_device\device.BlockDevice.update_settings
+3.SDK_dataset\aioshelly\block_device\device.BlockDevice.status

@@ -1,0 +1,6 @@
+API number:5
+SDK_dataset\pydeconz\interfaces\lights.CoverHandler.set_state
+SDK_dataset\pydeconz\interfaces\lights.SirenHandler.set_state
+SDK_dataset\pydeconz\interfaces\lights.LockHandler.set_state
+SDK_dataset\pydeconz\gateway.DeconzSession.get_api_key
+SDK_dataset\pydeconz\interfaces\lights.LightHandler.set_state
