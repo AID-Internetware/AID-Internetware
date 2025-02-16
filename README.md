@@ -1,4 +1,4 @@
-# LEGO
+# AID
 AID: Automatic API Identification from Smart Home Device SDKs via Dataflow-enhanced Call Graph Analysis
 
 This repository is dedicated to sharing the tool AID and the data for the Internetware 2025 paper entitled AID: Automatic API Identification from Smart Home Device SDKs via Dataflow-enhanced Call Graph Analysis.
