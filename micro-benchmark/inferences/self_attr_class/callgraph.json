@@ -1,8 +1,0 @@
-{
-	"main.Inference.__init__": [],
-	"main": [],
-	"main.Inference.func2": [
-		"main.MyClass.func0"
-	],
-	"main.MyClass.func0": []
-}

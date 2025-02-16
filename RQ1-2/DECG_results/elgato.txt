@@ -1,9 +1,0 @@
-API number:8
-SDK_dataset\elgato\elgato.Elgato.identify
-SDK_dataset\elgato\elgato.Elgato.light
-SDK_dataset\elgato\elgato.Elgato.restart
-SDK_dataset\elgato\elgato.Elgato.power_on_behavior
-SDK_dataset\elgato\elgato.Elgato.info
-SDK_dataset\elgato\elgato.Elgato.has_battery
-SDK_dataset\elgato\elgato.Elgato.state
-SDK_dataset\elgato\elgato.Elgato.display_name

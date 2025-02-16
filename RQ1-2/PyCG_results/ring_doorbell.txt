@@ -1,3 +1,0 @@
-API number:2
-SDK_dataset\ring_doorbell\auth.Auth.query
-SDK_dataset\ring_doorbell\auth.Auth.refresh_tokens

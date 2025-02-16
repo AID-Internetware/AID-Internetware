@@ -1,7 +1,0 @@
-API number:6
-SDK_dataset\env_canada\__init__.get_historical_stations
-SDK_dataset\env_canada\__init__.get_hydro_sites
-SDK_dataset\env_canada\__init__.get_aqhi_regions
-SDK_dataset\env_canada\__init__.find_closest_region
-SDK_dataset\env_canada\__init__.closest_site
-SDK_dataset\env_canada\__init__.get_ec_sites

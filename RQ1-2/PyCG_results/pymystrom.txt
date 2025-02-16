@@ -1,9 +1,0 @@
-API number:8
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_rainbow
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_on
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_white
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_sunrise
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_off
-SDK_dataset\pymystrom\bulb.MyStromBulb.get_state
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_color_hex
-SDK_dataset\pymystrom\bulb.MyStromBulb.set_flashing

@@ -1,5 +1,0 @@
-API number:4
-SDK_dataset\broadlink\light.lb2.get_state
-SDK_dataset\broadlink\light.lb1.get_state
-SDK_dataset\broadlink\light.lb2.set_state
-SDK_dataset\broadlink\light.lb1.set_state

@@ -1,9 +1,0 @@
-API number:8
-SDK_dataset\yeelight\main.discover_bulbs
-SDK_dataset\yeelight\main.Bulb.set_hsv
-SDK_dataset\yeelight\main.Bulb.listen
-SDK_dataset\yeelight\main.Bulb.set_brightness
-SDK_dataset\yeelight\main.Bulb.set_rgb
-SDK_dataset\yeelight\main.Bulb.start_flow
-SDK_dataset\yeelight\main.Bulb.start_music
-SDK_dataset\yeelight\main.Bulb.set_color_temp

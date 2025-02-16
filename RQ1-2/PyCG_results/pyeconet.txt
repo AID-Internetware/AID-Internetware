@@ -1,5 +1,0 @@
-API number:4
-SDK_dataset\pyeconet\api.EcoNetApiInterface.refresh_equipment
-SDK_dataset\pyeconet\api.EcoNetApiInterface.publish
-SDK_dataset\pyeconet\api.EcoNetApiInterface.get_equipment_by_type
-SDK_dataset\pyeconet\api.EcoNetApiInterface.get_dynamic_action
